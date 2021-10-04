@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+# ERC20 Demo Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is a sample repo for creating and launching an ERC20 token on any EVM compatible network (Ethereum, Polygon, Arbitrum, etc.)
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+You can watch the full series on YouTube here:
